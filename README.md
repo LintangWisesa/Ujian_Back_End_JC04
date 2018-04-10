@@ -33,7 +33,7 @@ Buatlah Function CRUD (Create/Insert, Read/Select, Update, Delete) dari database
 
 _**Catatan:**_ _Ketik kode javascript yang Anda buat, dalam format .txt sebagai jawaban soal ini!_
 
-### **Soal 3 - MongoDB**
+### **Soal 3 - MongoDB Database**
 
 Tuliskan langkah-langkah/urutan query MongoDB untuk membuat sebuah database Non-RDBMS (Document Store) dengan spesifikasi sebagai berikut:
 - Terdapat sebuah database dengan nama __"Kampus"__.
