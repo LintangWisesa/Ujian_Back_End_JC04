@@ -101,7 +101,7 @@ _**Catatan:**_ _Soal ini hanya meminta Anda untuk menuliskan langkah-langkah/uru
 
 ### **Soal 4 - Express & MongoDB**
 
-Buatlah sebuah aplikasi NodeJS (Express) sederhana yang mampu mengakses database "Kampus" (**Soal No. 3**), dengan spesifikasi sebagai berikut:
+Buatlah sebuah aplikasi NodeJS (Express) sederhana yang mampu mengakses database __"Kampus"__ (**Soal No. 3**), dengan spesifikasi sebagai berikut:
 
 - __GET /dosen__ &rarr; akan memberikan response: menampilkan semua data pada collection __"Dosen"__.
 
@@ -111,6 +111,8 @@ Buatlah sebuah aplikasi NodeJS (Express) sederhana yang mampu mengakses database
   > Misal __GET /dnama/Caca__ akan menampilkan semua data milik dosen __Caca__. 
 
 - **GET /mnama/:namamahasiswa** &rarr; akan memberikan response: menampilkan data pada collection **"Mahasiswa"** yang memiliki nama=namamahasiswa. 
-  > Misal **GET /dnama/Faza** akan menampilkan semua data milik mahasiswa **Faza**.
+  > Misal **GET /mnama/Faza** akan menampilkan semua data milik mahasiswa **Faza**.
 
 _**Catatan:**_ _Ketik kode javascript yang Anda buat, dalam format .txt sebagai jawaban soal ini!_
+
+### *__#HappyCoding__*
