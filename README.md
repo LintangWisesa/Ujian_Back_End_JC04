@@ -116,3 +116,14 @@ Buatlah sebuah aplikasi NodeJS (Express) sederhana yang mampu mengakses database
 _**Catatan:**_ _Ketik kode javascript yang Anda buat, dalam format .txt sebagai jawaban soal ini!_
 
 ### *__#HappyCoding__*
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
